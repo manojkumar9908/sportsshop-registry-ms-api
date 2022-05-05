@@ -8,6 +8,7 @@ public class SportsshopRegistryMsApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SportsshopRegistryMsApiApplication.class, args);
+		System.out.println("microservice are working");
 	}
 
 }
